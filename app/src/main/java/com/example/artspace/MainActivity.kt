@@ -283,7 +283,7 @@ fun ArtworkImage(
                 .padding(10.dp)
                 .aspectRatio(1f)
                 .shadow(20.dp),
-            contentScale = ContentScale.Crop
+            contentScale = ContentScale.FillHeight
         )
     }
 }
