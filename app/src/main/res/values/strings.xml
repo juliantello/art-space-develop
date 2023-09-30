@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="name">Yilver Julian Tello</string>
+    <string name="code">202110019</string>
+
+    <string name="asahi">Asahi</string>
+    <string name="asahi_year">17</string>
+    <string name="asahi_description">Es un estudiante de tercer año y es parte del equipo de voleibol del Instituto Karasuno.</string>
+
+    <string name="equipo">Entreno</string>
+    <string name="equipo_year">1</string>
+    <string name="equipo_description">Equipo del Instituto karasuno realizando uno de sus entrenos</string>
+
+    <string name="equipo2">Poster</string>
+    <string name="equipo2_year">9</string>
+    <string name="equipo2_description">Poster de los jugadores del equipo del Instituto Karasuno.</string>
+
+    <string name="equipo3">Equipos</string>
+    <string name="equipo3_year">3</string>
+    <string name="equipo3_description">Los mejores equipos del torneo Nacional Haikyuu.</string>
+
+    <string name="haikyu">Karasuno</string>
+    <string name="haikyu_year">9</string>
+    <string name="haikyu_description">Jugadores titulares equipo del Instituto Karasuno</string>
+
+    <string name="hinata">Hinata</string>
+    <string name="hinata_year">16</string>
+    <string name="hinata_description">Además de ser uno de los "Bloqueadores Centrales" del equipo, viajó durante 2 años a brasil para adquirir experiencia, mediante el voléibol de playa .</string>
+
+    <string name="hinata2">Hinata</string>
+    <string name="hinata2_year">16</string>
+    <string name="hinata2_description">Impulsando su salto para poder Atacar.</string>
+
+    <string name="kei">Kei</string>
+    <string name="kei_year">16</string>
+    <string name="kei_description">Es un estudiante del Instituto Karasuno, juega como bloqueador central en el equipo de voleibol.</string>
+
+    <string name="kei2">Kei</string>
+    <string name="kei2_year">16</string>
+    <string name="kei2_description">Poster del bloqueador central del equipo Karasuno</string>
+
+    <string name="korai">Korai</string>
+    <string name="korai_year">17</string>
+    <string name="korai_description">Es un estudiante de segundo año de la Secundaria Komomedai.</string>
+
+    <string name="nishinoya">Nishinoya</string>
+    <string name="nishinoya_year">16</string>
+    <string name="nishinoya_description">Al ser el libero tiene un uniforme diferente a los demás para jugar los partidos.</string>
+
+    <string name="rivales">Rivales</string>
+    <string name="rivales_year">2</string>
+    <string name="rivales_description">202045478979</string>
+
+    <string name="Kageyama">Kageyama</string>
+    <string name="Kageyama_year">16</string>
+    <string name="Kageyama_description">Inicialmente fue llamado como "El Rey De La Cancha", apodo que sus compañeros de equipo en ese entonces le pusieron.</string>
+
+    <string name="previus">Anterior</string>
+    <string name="next">Siguiente</string>
+
+</resources>
