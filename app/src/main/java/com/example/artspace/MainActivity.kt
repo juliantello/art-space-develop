@@ -241,7 +241,9 @@ fun ArtSpaceScreen(modifier: Modifier = Modifier) {
             }
             Button(
                 onClick = {
+                    if (result <= 12){
                         result += 1
+                    }
                 },
                 colors = ButtonDefaults.buttonColors(
                     containerColor = colorResource(id = R.color.teal_200),
